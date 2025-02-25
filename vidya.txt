@@ -1,3 +1,6 @@
 today it is
 devops lab
 having expe 2
+its about
+cloning 
+repository
